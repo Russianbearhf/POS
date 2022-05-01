@@ -1,0 +1,157 @@
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.exe
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.deps.json
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.runtimeconfig.json
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.AssemblyReference.cache
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.GenerateResource.cache
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfoInputs.cache
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfo.cs
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CoreCompileInputs.cache
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\refint\pointofsale new.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.genruntimeconfig.cache
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\ref\pointofsale new.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Properties.Resources.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Addsuppliers.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddProducts.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddCustomer.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MainMenu.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewProducts.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewSuppliers.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewCustomers.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Logins.resources
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CopyComplete
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\khodo\source\repos\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MBox.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.AssemblyReference.cache
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddCustomer.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddProducts.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Addsuppliers.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Logins.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MainMenu.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Properties.Resources.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewCustomers.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewProducts.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewSuppliers.resources
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.GenerateResource.cache
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfoInputs.cache
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfo.cs
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CoreCompileInputs.cache
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\refint\pointofsale new.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.exe
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.deps.json
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.runtimeconfig.json
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CopyComplete
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.genruntimeconfig.cache
+C:\Users\khodo\Desktop\pointofsale new\pointofsale new\obj\Debug\net6.0-windows\ref\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.exe
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.deps.json
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.runtimeconfig.json
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.AssemblyReference.cache
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddCustomer.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddProducts.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Addsuppliers.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Logins.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MainMenu.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Properties.Resources.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewCustomers.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewProducts.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewSuppliers.resources
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.GenerateResource.cache
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfoInputs.cache
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfo.cs
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CoreCompileInputs.cache
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CopyComplete
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\refint\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.genruntimeconfig.cache
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\ref\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Billings.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.exe
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.deps.json
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.runtimeconfig.json
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\Guna.Charts.WinForms.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\SipaaFramework.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.AssemblyReference.cache
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddCustomer.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddProducts.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Addsuppliers.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Billings.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Logins.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MainMenu.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Properties.Resources.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewCustomers.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewProducts.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewSuppliers.resources
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.GenerateResource.cache
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfoInputs.cache
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfo.cs
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CoreCompileInputs.cache
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CopyComplete
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\refint\pointofsale new.dll
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.pdb
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.genruntimeconfig.cache
+C:\Users\khodo\Desktop\New folder\pointofsale new\obj\Debug\net6.0-windows\ref\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.AssemblyReference.cache
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddCustomer.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.AddProducts.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Addsuppliers.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Billings.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Logins.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.MainMenu.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.Properties.Resources.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewBills.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewCustomers.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewProducts.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale_new.ViewSuppliers.resources
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.GenerateResource.cache
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfoInputs.cache
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.AssemblyInfo.cs
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.csproj.CoreCompileInputs.cache
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\refint\pointofsale new.dll
+C:\Users\RUSSI\OneDrive\Desktop\FInal project\New folder\pointofsale new\obj\Debug\net6.0-windows\pointofsale new.pdb
